@@ -1,8 +1,8 @@
 {
-  "name": "ssg-example",
+  "name": "ssg-ssr-gatsby",
   "version": "1.0.0",
   "private": true,
-  "description": "ssg-example",
+  "description": "ssg-ssr-gatsby",
   "author": "Sean Ho",
   "keywords": [
     "gatsby"
